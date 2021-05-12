@@ -36,7 +36,7 @@
     "react-bootstrap-slider": "^2.2.3",
     "react-datepicker": "^3.4.1",
     "react-dnd": "^10.0.2",
-    "react-dnd-html5-backend": "^10.0.2",
+    "react-dnd-html5-backend": "git://github.com/asad-amjad/react-dnd-html5-backend.git#880a3230ae2378613ab230c2e7f8fbd757fdc765",
     "react-draft-wysiwyg": "~1.13.2",
     "react-select": "^3.2.0",
     "react-signature-canvas": "^1.0.3",
